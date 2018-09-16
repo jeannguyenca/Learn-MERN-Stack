@@ -2,7 +2,7 @@
  
 
 ## _Topic:_ MERN Stack
-https://medium.com/@Keithweaver_/getting-started-with-mern-mongodb-express-js-react-js-node-js-94197841bdf4
+[Getting Started with MERN](https://medium.com/@Keithweaver_/getting-started-with-mern-mongodb-express-js-react-js-node-js-94197841bdf4)
 
    ### React
    https://reactjs.org/tutorial/tutorial.html

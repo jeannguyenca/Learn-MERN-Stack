@@ -5,7 +5,7 @@
 [Getting Started with MERN](https://medium.com/@Keithweaver_/getting-started-with-mern-mongodb-express-js-react-js-node-js-94197841bdf4)
 
 * React
-   [React Docs](https://reactjs.org/tutorial/tutorial.html)
+   [React Docs](https://reactjs.org/tutorial/tutorial.html),
    [React Roadmap](https://medium.freecodecamp.org/learning-react-roadmap-from-scratch-to-advanced-bff7735531b6)
 
 * MongoDB

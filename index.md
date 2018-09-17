@@ -1,7 +1,9 @@
-# WMDD4992 Blog Page
+# LEARNING MERN STACK
  
+These pages are documents and notes of my learning progress to integrate MongoDB, Express.js, React.js and Node.js. I hope this will help anyone who also want to learn MERN or would like to know how I study the subject independently as a part of a directed study at Langara.  
 
-## _Topic:_ MERN Stack
+
+## Somethings to get start with
 [Getting Started with MERN](https://medium.com/@Keithweaver_/getting-started-with-mern-mongodb-express-js-react-js-node-js-94197841bdf4)
 
 * React

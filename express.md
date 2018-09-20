@@ -24,4 +24,4 @@ In the first three stages, we have hired a manager, defining how to check-in and
 
 
 ### References
-(*)Kevin K. Going out to eat and understanding the basics of Express.js. Retrieved September 19, 2018, from https://medium.freecodecamp.org/going-out-to-eat-and-understanding-the-basics-of-express-js-f034a029fb66
+(*)Kevin K. Going out to eat and understanding the basics of Express.js. Retrieved September 19, 2018, from [https://medium.freecodecamp.org/going-out-to-eat-and-understanding-the-basics-of-express-js-f034a029fb66]( https://medium.freecodecamp.org/going-out-to-eat-and-understanding-the-basics-of-express-js-f034a029fb66)

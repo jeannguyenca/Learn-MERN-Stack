@@ -1,6 +1,6 @@
 # Prototype / Spike Idea
 
-Comment Box using MERN
+##### Comment Box using MERN
 I would like to build a simple comment function where user can put his/her name and comment. The comments will be saved on a database. Users might also be able to update or delete comments. 
 
 1.	React UI

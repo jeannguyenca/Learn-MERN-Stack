@@ -1,4 +1,4 @@
-# Understand Express.js by comparing with restaurantt operation
+# Understand Express.js by comparing with restaurant operation
 
 Express is a popular framework run on top of Node.js. Node is a platform for building server-side application using JavaScript and Express is built based on Node. It adds more features so that writing a server is easier. There are four stages of an Express server: require statements, middleware, routing and listener or starting the server.
 

@@ -17,5 +17,5 @@ These pages are documents and notes of my learning progress to integrate MongoDB
    [Node.js and React.js Intergration](https://codeburst.io/build-simple-medium-com-on-node-js-and-react-js-a278c5192f47)
    
 ## See my next posts here
-[Understand Express.js by comparing with restaurant operation](express.md)
-[Prototype / Spike Idea](prototype-idea.md)
+* [Understand Express.js by comparing with restaurant operation](express.md)
+* [Prototype / Spike Idea](prototype-idea.md)

@@ -8,5 +8,12 @@ I would like to build a simple comment function where user can put his/her name 
 3.	Express.js and Node.js for server
 4.	Achieve Create and Read first then Update and Delete
 
+##### User stories
++ As a commenter, I want post a comment, so that I can express my thought.
++ As a reader, I want to see all previous comments, so that I know what others think.
++ As a user, I want to edit my old comments, so that I can fix my errors.
++ As a user, I want to delete my comments, so that I can write a new one.
+
+
 
 ### [Go back home](index.md)

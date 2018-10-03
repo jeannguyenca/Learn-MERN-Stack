@@ -17,5 +17,5 @@ The prototype is built based on the tutorial on (Medium by Bryan Gilbraith)[http
 + As a user, I want to delete my comments, so that I can write a new one.
 
 
-
+### [Previous post](express.md)
 ### [Go back home](index.md)

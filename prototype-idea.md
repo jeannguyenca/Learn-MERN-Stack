@@ -8,7 +8,7 @@ I would like to build a simple comment function where user can put his/her name 
 3.	Express.js and Node.js for server
 4.	Achieve Create and Read first then Update and Delete
 
-The prototype is built based on the tutorial on (Medium by Bryan Gilbraith)[https://medium.com/@bryantheastronaut/ok-here-we-go-b9f683c5a00c]
+The prototype is built based on the tutorial on [Medium by Bryan Gilbraith](https://medium.com/@bryantheastronaut/ok-here-we-go-b9f683c5a00c)
 
 ##### User stories
 + As a commenter, I want post a comment, so that I can express my thought.

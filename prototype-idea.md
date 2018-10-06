@@ -18,4 +18,5 @@ The prototype is built based on the tutorial on [Medium by Bryan Gilbraith](http
 
 
 ### [Previous post](express.md)
+### [Next post](progress.md)
 ### [Go back home](index.md)

@@ -19,5 +19,5 @@ These pages are documents and notes of my learning progress to integrate MongoDB
 ## See my next posts here
 * [Understand Express.js by comparing with restaurant operation](express.md)
 * [Prototype idea and user stories](prototype-idea.md)
-* [Progress report]([progress.md)
+* [Progress report](progress.md)
 

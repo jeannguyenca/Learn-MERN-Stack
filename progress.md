@@ -15,7 +15,7 @@ Also, it's really convinience working with npm dependencies.
 Although I have mentioned thatt it's convinience working with dependencies, there are problems with that too. 
 A project can end up with too many unnecessary dependencies or updatating dependencies can cause errors.
 
-### What was interesting (insights, roadblocks, etc)
+### What was interesting
 I am still working on React stage updating since it is not working as I expected. 
 When I fill in a comment form and submit it, I am not able to clear the text. 
 I have researched the issue but there's not a proper solution yet. 

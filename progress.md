@@ -27,3 +27,7 @@ I have researched the issue but there's not a proper solution yet.
 ### Backlog
 ![blacklog](progress.png)
 
+
+### [Previous post](prototype-idea.md)
+### [Go back home](index.md)
+

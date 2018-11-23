@@ -32,3 +32,55 @@
 ### Backlog
 ![Backlog](project-report-40.png)
 
+
+
+
+## 60% Report
+
+### Retrospectives
++ **Executive summary:** I have finished my backend and integrate with front-end for displaying charts. Now, I need to add more data to the databases. 
++ What went well: The chart is displayed nicely.
++ What did not go well: When adding more databases to mLab, I need to make sure the structure is the same so that it does not have errors. 
++ What was interesting: I become more efficiency working with complex data type.
+
+### Plan for next week
++ Add suggestions for diseases.
++ Integrate other parts of the planner page.
+
+### Backlog
+![Backlog](project-report-60.png)
+
+
+
+## 80% Report
+
+### Retrospectives
++ **Executive summary:** I have finished putting all components of the Planner page on React. I also publish Node.js backend on Heroku.
++ What went well: By seperate front-end and back-end, I do not have much difficulty with deploying the app on Heroku.
++ What did not go well: Problems with React components, mapping data...
++ What was interesting: Get to reuse React components save me a lot of time.
+
+### Plan for next week
++ Finish styling for the Planner page.
++ Try to deploy front-end to Heroku to see if there's any problem.
+
+### Backlog
+![Backlog](project-report-80.png)
+
+
+
+## 90% Report
+
+### Retrospectives
++ **Executive summary:** I have finished integrate the Planner page to other pages.
++ What went well: I have done the styling of Planner page, some transition might be integrated. I also finished adjusting other pages.
++ What did not go well: Nothing
++ What was interesting: Learnt how to use React Styled Component.
+
+### Plan for next week
++ Finish the project
++ Deploy to Heroku.
+
+### Backlog
+![Backlog](project-report-90.png)
+

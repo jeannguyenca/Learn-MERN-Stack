@@ -84,3 +84,18 @@
 ### Backlog
 ![Backlog](project-report-90.png)
 
+
+## 95% Report
+
+### Retrospectives
++ **Executive summary:** Our project has been deployed on Heroku. There are some bugs during the deployment process and my team and I are working on fixing them. 
++ What went well: The project has been successfully deployed on Heroku.
++ What did not go well: Problem with CORS and free dyno on Heroku (it sleeps after 30mins of inactivity)
++ What was interesting: Learn how to add custom domain names and how to configure them.
+
+### Plan for next week
++ Add secured connection to the custom domain.
+
+### Backlog
+![Backlog](project-report-95.png)
+

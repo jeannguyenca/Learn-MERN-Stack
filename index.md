@@ -22,4 +22,7 @@ These pages are documents and notes of my learning progress to integrate MongoDB
 * [Progress report](progress.md)
 * [My project user stories](project-userstories.md)
 * [My project progress reports](project-report.md)
+* [Final check-in and Retrospective](final-check-in.md)
+
+
 
